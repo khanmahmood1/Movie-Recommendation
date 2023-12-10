@@ -20,15 +20,10 @@ However, you can still explore and run the entire project by downloading the pro
 
 To access the full project, including the large `ratings.csv` dataset, follow these steps:
 
-1. Visit the [GitHub repository]([https://github.com/your-username/movie-recommendation-system](https://github.com/khanmahmood1/Movie-Recommendation.git)).
+- Visit the [GitHub repository]([https://github.com/your-username/movie-recommendation-system](https://github.com/khanmahmood1/Movie-Recommendation.git)).
 
-2. Click on the green "Code" button and select "Download ZIP."
+- Click on the green "Code" button and select "Download ZIP."
 
-3. Once the download is complete, extract the contents of the zip file to reveal the complete project files.
+- Once the download is complete, extract the contents of the zip file to reveal the complete project files.
 
-By obtaining the zip file, you will gain access to all necessary components for running and exploring the movie recommendation system.
-
-
-
-
-
+- By obtaining the zip file, you will gain access to all necessary components for running and exploring the movie recommendation system.
