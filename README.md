@@ -5,8 +5,8 @@ The system uses two main datasets: `movies.csv`, which contains information abou
 
 ## Important Note on File Size
 
-Due to size limitations on certain platforms, the comprehensive project files, especially the substantial `ratings.csv` dataset, cannot be directly uploaded.<br>
-However, you can still explore and run the entire project by downloading the provided zip file from the GitHub repository.
+Due to size limitations on GitHub platforms, the comprehensive project files, especially the substantial `ratings.csv` dataset, cannot be directly uploaded.<br>
+However, you can still explore and run the entire project by downloading the provided zip file from the my GitHub repository.
 
 ## Project Components
 
