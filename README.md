@@ -19,7 +19,7 @@ There are two data sets in this project,here is the link of the project <a href=
 
 ## Downloading the Complete Project
 
-To access the full project, including the large `ratings.csv` dataset, follow these steps:
+To access the full project,  including the large `ratings.csv` dataset, follow these steps:
 
 - Visit the [GitHub repository]([https://github.com/your-username/movie-recommendation-system](https://github.com/khanmahmood1/Movie-Recommendation.git)).
 
