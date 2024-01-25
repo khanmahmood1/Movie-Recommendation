@@ -7,7 +7,7 @@ The system uses two main datasets: `movies.csv`, which contains information abou
 
 Due to size limitations on GitHub platforms, the comprehensive project files, especially the substantial `ratings.csv` dataset, cannot be directly uploaded.<br>
 However, you can still explore and run the entire project by downloading the provided zip file from the my GitHub repository.<br>
-There are two data sets in this project,here is the link of the project <a href="[https://www.google.com/](https://drive.google.com/drive/folders/1BpqHRAKDBXnxlSr3ARi781ARYXXwDBgj?usp=sharing)" target="_blank">Drive_Link</a>
+There are two data sets in this project,here is the link of the project <a href="(https://drive.google.com/drive/folders/1BpqHRAKDBXnxlSr3ARi781ARYXXwDBgj?usp=drive_link)" target="_blank">Drive_Link</a>
 
 ## Project Components
 
